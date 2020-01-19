@@ -1,0 +1,47 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+buildscript {
+    repositories {
+        google()
+        jcenter()
+
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$GradleConfig.gradlePluginVersion"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$GradleConfig.kotlinVersion"
+    }
+}
+
+allprojects {
+    repositories {
+        google()
+        jcenter()
+
+    }
+}
+
+subprojects {
+    afterEvaluate { project ->
+        if (project.hasProperty('android')) {
+            android {
+                buildToolsVersion GradleConfig.buildToolsVersion
+                compileSdkVersion GradleConfig.compileSdkVersion
+
+                defaultConfig {
+                    minSdkVersion GradleConfig.minSdkVersion
+                    targetSdkVersion GradleConfig.targetSdkVersion
+                    testInstrumentationRunner GradleConfig.testInstrumentationRunner
+                }
+
+                compileOptions {
+                    sourceCompatibility GradleConfig.javaVersion
+                    targetCompatibility GradleConfig.javaVersion
+                }
+            }
+        }
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

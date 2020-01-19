@@ -1,0 +1,31 @@
+import dependencies.AndroidX
+
+apply plugin: 'com.android.application'
+
+apply plugin: 'kotlin-android'
+
+apply plugin: 'kotlin-android-extensions'
+
+android {
+    defaultConfig {
+        applicationId "br.com.andretortolano.moviestack"
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$GradleConfig.kotlinVersion"
+    implementation AndroidX.appcompat
+    implementation AndroidX.core_ktx
+    implementation AndroidX.constraintlayout
+    testImplementation JUnit.junit
+    androidTestImplementation AndroidX.espresso_core
+}
