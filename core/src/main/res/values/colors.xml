@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/carminePink</color>
+    <color name="colorPrimaryDark">@color/redBrown</color>
+    <color name="colorAccent">@color/carminePink</color>
+
+    <!-- Colors -->
+    <color name="lightCarminePink">#E46F6B</color>
+    <color name="carminePink">#DE4B46</color>
+    <color name="redBrown">#A02B26</color>
+    <color name="blond">#F5F3BB</color>
+    <color name="deepSpaceSparkle">#395C6B</color>
+    <color name="lightCobaltBlue">#80A4ED</color>
+    <color name="paleAqua">#BCD3F2</color>
+</resources>
