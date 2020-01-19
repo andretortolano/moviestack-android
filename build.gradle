@@ -7,8 +7,8 @@ buildscript {
 
     }
     dependencies {
-        classpath "com.android.tools.build:gradle:$GradleConfig.gradlePluginVersion"
-        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$GradleConfig.kotlinVersion"
+        classpath "com.android.tools.build:gradle:3.5.3"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:${Dependencies.kotlinVersion}"
     }
 }
 
@@ -24,18 +24,18 @@ subprojects {
     afterEvaluate { project ->
         if (project.hasProperty('android')) {
             android {
-                buildToolsVersion GradleConfig.buildToolsVersion
-                compileSdkVersion GradleConfig.compileSdkVersion
+                compileSdkVersion 29
+                buildToolsVersion "29.0.2"
 
                 defaultConfig {
-                    minSdkVersion GradleConfig.minSdkVersion
-                    targetSdkVersion GradleConfig.targetSdkVersion
-                    testInstrumentationRunner GradleConfig.testInstrumentationRunner
+                    minSdkVersion 21
+                    targetSdkVersion 29
+                    testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
                 }
 
                 compileOptions {
-                    sourceCompatibility GradleConfig.javaVersion
-                    targetCompatibility GradleConfig.javaVersion
+                    sourceCompatibility JavaVersion.VERSION_1_8
+                    targetCompatibility JavaVersion.VERSION_1_8
                 }
             }
         }

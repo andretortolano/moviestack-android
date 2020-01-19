@@ -43,6 +43,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/dependencies/KotlinLang.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/AndroidX.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/JUnit.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/KotlinLang.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
