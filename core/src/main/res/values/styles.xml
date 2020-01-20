@@ -9,4 +9,5 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <!-- Add all Styles that will be reusable throughout the app -->
 </resources>

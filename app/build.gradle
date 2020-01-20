@@ -23,6 +23,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$Dependencies.kotlinVersion"
 
     implementation project(":core")
+    implementation project(":feature:home")
 
     implementation Dependencies.androidx_core_ktx
     implementation Dependencies.androidx_appcompat
