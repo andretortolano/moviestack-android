@@ -2,4 +2,4 @@ rootProject.name='MovieStack'
 include ':app'
 include ':core'
 
-include ':feature:home'
+include ':feature:feature-home'

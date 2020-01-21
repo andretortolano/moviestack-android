@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="moviestack.feature.home">
+
+    <application>
+        <activity
+            android:name=".ui.HomeActivity"
+            android:label="@string/title_home"
+            android:theme="@style/MovieStack.AppTheme">
+            <intent-filter>
+                <action android:name="moviestack.feature.home.action.OPEN"/>
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -12,7 +12,6 @@
                 android:angle="45"/>
         </shape>
     </item>
-    <!-- Your product logo - 144dp color version of your app icon -->
     <item>
 
         <bitmap

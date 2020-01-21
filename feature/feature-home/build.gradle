@@ -1,33 +1,22 @@
-apply plugin: 'com.android.application'
-
+apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-
 apply plugin: 'kotlin-android-extensions'
-
-android {
-    defaultConfig {
-        applicationId "br.com.andretortolano.moviestack"
-        versionCode 1
-        versionName "1.0"
-    }
-    buildTypes {
-        release {
-            minifyEnabled false
-            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-        }
-    }
-}
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$Dependencies.kotlinVersion"
 
     implementation project(":core")
-    implementation project(':feature:feature-home')
 
     implementation Dependencies.androidx_core_ktx
     implementation Dependencies.androidx_appcompat
     implementation Dependencies.androidx_constraintlayout
+    implementation Dependencies.google_material
+    implementation Dependencies.androidx_navigation_fragment
+    implementation Dependencies.androidx_navigation_fragment_ktx
+    implementation Dependencies.androidx_navigation_ui_ktx
+    implementation Dependencies.androidx_navigation_ui
+    implementation Dependencies.androidx_lifecycle
 
     // Unit Test
     testImplementation Dependencies.test_junit

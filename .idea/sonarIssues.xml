@@ -3,27 +3,22 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/app/build.gradle">
+        <entry key="/Dummy.txt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/res/drawable/splash_background.xml">
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-runtime-ktx/2.0.0/89a650602098396ae8735b89d82062b42d4b9db2/navigation-runtime-ktx-2.0.0-sources.jar!/androidx/navigation/Activity.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/app/src/main/res/values/styles.xml">
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.navigation/navigation-ui-ktx/2.0.0/2a3133fd01dfcc8cc485a847d085c39ef198a842/navigation-ui-ktx-2.0.0-sources.jar!/androidx/navigation/ui/Activity.kt">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/buildSrc/build.gradle.kts">
           <value>
             <set />
           </value>
@@ -73,27 +68,32 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/core/src/main/AndroidManifest.xml">
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/model/data/Movie.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/core/src/main/res/values/colors.xml">
+        <entry key="$PROJECT_DIR$/feature/home/build.gradle">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/core/src/main/res/values/strings.xml">
+        <entry key="$PROJECT_DIR$/feature/home/build/intermediates/library_manifest/debug/AndroidManifest.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/core/src/main/res/values/styles.xml">
+        <entry key="$PROJECT_DIR$/feature/home/build/intermediates/packaged_res/debug/navigation/mobile_navigation.xml">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/settings.gradle">
+        <entry key="$PROJECT_DIR$/feature/home/src/main/java/moviestack/feature/home/ui/HomeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
           <value>
             <set />
           </value>
