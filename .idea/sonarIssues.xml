@@ -18,6 +18,141 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/business/AdobeTrackerBusiness.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/infrastructure/adobe/AdobeConstantTags.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/infrastructure/callback/invoiceduedate/InvoiceDueDateFactory.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/BaseActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/custom/scrollviewinvoicepayment/ImproveAnimatedScrollViewRules.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/home/HomeActivity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchAdapter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchBenefitsFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchContract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchDialogThankfulUtil.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchExplanationActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchExplanationContract.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchExplanationFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchImprovementFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/invoicepaymentresearch/InvoicePaymentResearchPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/login/LoginPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/unlock/UnlockConfirmationPresenter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/java/br/com/itau/cartoes/presentation/webview/WebViewFragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/serviceshandler/ServicesHandlerPresenterTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/unlock/feedback/UnlockCardFeedbackPresenterTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/unlockfirstcard/UnlockFirstCardIncentivePresenterTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/virtual-card-android/virtualcard/src/main/java/br/com/itau/sdk/android/virtualcard/presentation/virtualcardrequest/VirtualCardSdkRequestActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/br/com/andretortolano/moviestack/ui/SplashActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/build.gradle">
           <value>
             <set />
@@ -68,7 +203,172 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvi/MviAction.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvi/MviIntent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvi/MviView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvi/MviViewAction.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvi/MviViewModel.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvi/MviViewState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvp/IPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvp/MvpBundle.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvp/MvpPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvp/MvpView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvp/MvpViewState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvp/platform/BaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/archetype/mvp/platform/MvpBaseActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/Repository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/movie/MoviesRemoteSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/movie/MoviesRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/movie/MoviesRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/movies/MoviesLocalSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/movies/MoviesRemoteSource.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/movies/MoviesRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/data/movies/MoviesRepositoryImpl.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/domain/DomainDetailedMovie.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/domain/Movie.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/model/data/Movie.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/navigation/AndroidNavigation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/presentation/mvp/MvpPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/presentation/mvp/MvpState.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/presentation/mvp/MvpView.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/presentation/mvp/MvpViewActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/presentation/navigation/AndroidNavigation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/usecases/Interactor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/usecases/movies/GetMoviesInteractor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/feature/feature-home/src/main/java/moviestack/feature/home/navigation/HomeNavigation.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/feature/feature-home/src/main/java/moviestack/feature/home/ui/HomeActivity.kt">
           <value>
             <set />
           </value>
@@ -89,6 +389,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/feature/home/src/main/java/moviestack/feature/home/ui/HomeActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
           <value>
             <set />
           </value>

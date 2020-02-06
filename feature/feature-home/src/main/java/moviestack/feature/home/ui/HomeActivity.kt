@@ -7,9 +7,18 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import kotlinx.android.synthetic.main.home_activity.*
+import moviestack.core.archetype.mvp.MvpPresenter
+import moviestack.core.archetype.mvp.MvpView
+import moviestack.core.archetype.mvp.platform.MvpBaseActivity
 import moviestack.feature.home.R
 
-class HomeActivity : AppCompatActivity() {
+class HomeActivity : MvpBaseActivity() {
+
+
+
+    override fun getInjectedPresenter(): MvpPresenter<MvpView> {
+        TODO("not implemented") //To change body of created functions use File | Settings | File Templates.
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
