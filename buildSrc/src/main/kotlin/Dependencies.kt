@@ -1,3 +1,5 @@
+@file:Suppress("MayBeConstant")
+
 object Dependencies {
     val kotlinVersion = "1.3.61"
 

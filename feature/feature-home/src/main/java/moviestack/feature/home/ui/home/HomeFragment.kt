@@ -8,9 +8,10 @@ import android.widget.TextView
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
+import moviestack.core.presentation.mvvm.MvvmViewFragment
 import moviestack.feature.home.R
 
-class HomeFragment : Fragment() {
+class HomeFragment : MvvmViewFragment() {
 
     private lateinit var homeViewModel: HomeViewModel
 
