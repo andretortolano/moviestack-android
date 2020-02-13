@@ -12,7 +12,9 @@ object Dependencies {
     val androidx_navigation_ui_ktx = "androidx.navigation:navigation-ui-ktx:2.1.0"
     val androidx_navigation_ui = "androidx.navigation:navigation-ui:2.1.0"
 
-    val androidx_lifecycle = "androidx.lifecycle:lifecycle-extensions:2.1.0"
+    val androidx_lifecycle = "androidx.lifecycle:lifecycle-extensions:2.2.0"
+    val androidx_viewmodel_ktx = "androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0"
+    val androidx_lifecycle_savestate = "androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0"
 
     val google_material = "com.google.android.material:material:1.0.0"
 

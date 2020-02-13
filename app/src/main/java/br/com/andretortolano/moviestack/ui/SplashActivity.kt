@@ -1,10 +1,10 @@
 package br.com.andretortolano.moviestack.ui
 
+import android.app.Activity
 import android.os.Bundle
-import androidx.appcompat.app.AppCompatActivity
 import moviestack.feature.home.navigation.HomeNavigation
 
-class SplashActivity : AppCompatActivity() {
+class SplashActivity : Activity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

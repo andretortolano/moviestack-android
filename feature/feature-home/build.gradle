@@ -8,10 +8,12 @@ dependencies {
 
     implementation project(":core")
 
+    implementation Dependencies.google_material
+
     implementation Dependencies.androidx_core_ktx
     implementation Dependencies.androidx_appcompat
     implementation Dependencies.androidx_constraintlayout
-    implementation Dependencies.google_material
+
     implementation Dependencies.androidx_navigation_fragment
     implementation Dependencies.androidx_navigation_fragment_ktx
     implementation Dependencies.androidx_navigation_ui_ktx

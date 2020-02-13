@@ -24,16 +24,4 @@ dependencies {
 
     implementation project(":core")
     implementation project(':feature:feature-home')
-
-    implementation Dependencies.androidx_core_ktx
-    implementation Dependencies.androidx_appcompat
-    implementation Dependencies.androidx_constraintlayout
-
-    // Unit Test
-    testImplementation Dependencies.test_junit
-
-    // Instrumented Test
-    androidTestImplementation Dependencies.androidTest_espresso
-    androidTestImplementation Dependencies.androidTest_rules
-    androidTestImplementation Dependencies.androidTest_runner
 }
