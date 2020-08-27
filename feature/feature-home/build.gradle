@@ -1,30 +1,39 @@
+import deps.AndroidTestDeps
+import deps.AndroidxDeps
+import deps.GoogleDeps
+import deps.KotlinDeps
+import deps.TestDeps
+
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$Dependencies.kotlinVersion"
+
+    implementation KotlinDeps.kotlinJdk
 
     implementation project(":core")
 
-    implementation Dependencies.google_material
+    implementation GoogleDeps.material
 
-    implementation Dependencies.androidx_core_ktx
-    implementation Dependencies.androidx_appcompat
-    implementation Dependencies.androidx_constraintlayout
+    implementation AndroidxDeps.coreKtx
+    implementation AndroidxDeps.appcompat
+    implementation AndroidxDeps.constraintlayout
 
-    implementation Dependencies.androidx_navigation_fragment
-    implementation Dependencies.androidx_navigation_fragment_ktx
-    implementation Dependencies.androidx_navigation_ui_ktx
-    implementation Dependencies.androidx_navigation_ui
-    implementation Dependencies.androidx_lifecycle
+    implementation AndroidxDeps.navigationFragment
+    implementation AndroidxDeps.navigationFragmentKtx
+
+    implementation AndroidxDeps.navigationUi
+    implementation AndroidxDeps.navigationUiKtx
+
+    implementation AndroidxDeps.lifecycleExtensions
 
     // Unit Test
-    testImplementation Dependencies.test_junit
+    testImplementation TestDeps.junit
 
     // Instrumented Test
-    androidTestImplementation Dependencies.androidTest_espresso
-    androidTestImplementation Dependencies.androidTest_rules
-    androidTestImplementation Dependencies.androidTest_runner
+    androidTestImplementation AndroidTestDeps.rules
+    androidTestImplementation AndroidTestDeps.runner
+    androidTestImplementation AndroidTestDeps.espressoCore
 }

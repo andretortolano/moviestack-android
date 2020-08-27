@@ -1,4 +1,4 @@
-package moviestack.feature.home.navigation
+package moviestack.feature.home
 
 import android.content.Context
 import moviestack.core.presentation.navigation.AndroidNavigation

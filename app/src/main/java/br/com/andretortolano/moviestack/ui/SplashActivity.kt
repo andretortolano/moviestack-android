@@ -2,7 +2,7 @@ package br.com.andretortolano.moviestack.ui
 
 import android.app.Activity
 import android.os.Bundle
-import moviestack.feature.home.navigation.HomeNavigation
+import moviestack.feature.home.HomeNavigation
 
 class SplashActivity : Activity() {
 

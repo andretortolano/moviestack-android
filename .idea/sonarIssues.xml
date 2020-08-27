@@ -23,6 +23,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/androidTest/java/br/com/itau/cartoes/infrastructure/dagger/DependencyContainer.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/androidTest/java/br/com/itau/cartoes/infrastructure/dagger/LoginBusinessSubcomponent.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/androidTest/java/br/com/itau/cartoes/infrastructure/dagger/TestMockModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/main/AndroidManifest.xml">
           <value>
             <set />
@@ -123,6 +138,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/business/AbstractBaseBusinessTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/business/TimelineBusinessTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/cashback/balanceprogram/BalanceProgramPresenterTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/purchasedetails/PurchaseDetailsWrapperTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/registrationdata/address/steps/completion/RegistrationDataAddressCompletionAnalyticsTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/registrationdata/receipt/ReceiptPresenterTest.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/app/src/test/java/br/com/itau/cartoes/presentation/serviceshandler/ServicesHandlerPresenterTest.kt">
           <value>
             <set />
@@ -143,7 +188,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ciandt/android-cartoes/android-cartoes/dependencies-versions.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../ciandt/virtual-card-android/virtualcard/src/main/java/br/com/itau/sdk/android/virtualcard/presentation/virtualcardrequest/VirtualCardSdkRequestActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/build.gradle">
           <value>
             <set />
           </value>
@@ -173,6 +228,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/Versions.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/dependencies/AndroidX.kt">
           <value>
             <set />
@@ -188,7 +248,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/AndroidTestDeps.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/AndroidX.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/AndroidxDeps.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/GoogleDeps.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/GradleDeps.kt">
           <value>
             <set />
           </value>
@@ -198,7 +278,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/KotlinDeps.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/KotlinLang.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/buildSrc/src/main/kotlin/deps/TestDeps.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core/build.gradle">
           <value>
             <set />
           </value>
@@ -359,6 +454,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/core/src/main/java/moviestack/core/usecases/movies/GetMoviesInteractor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/feature/feature-home/build.gradle">
           <value>
             <set />
           </value>

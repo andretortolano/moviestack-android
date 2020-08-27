@@ -1,3 +1,8 @@
+import deps.AndroidTestDeps
+import deps.AndroidxDeps
+import deps.KotlinDeps
+import deps.TestDeps
+
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-android-extensions'
@@ -11,20 +16,19 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$Dependencies.kotlinVersion"
 
-    implementation Dependencies.androidx_core_ktx
-    implementation Dependencies.androidx_appcompat
-    implementation Dependencies.androidx_constraintlayout
-    implementation Dependencies.androidx_lifecycle
-    implementation Dependencies.androidx_lifecycle_savestate
-    implementation Dependencies.androidx_viewmodel_ktx
+    implementation KotlinDeps.kotlinJdk
 
-    // Unit Test
-    testImplementation Dependencies.test_junit
+    implementation AndroidxDeps.coreKtx
+    implementation AndroidxDeps.appcompat
+    implementation AndroidxDeps.constraintlayout
+    implementation AndroidxDeps.lifecycleExtensions
+    implementation AndroidxDeps.lifecycleViewmodelSavedstate
+    implementation AndroidxDeps.lifecycleViewmodelKtx
 
-    // Instrumented Test
-    androidTestImplementation Dependencies.androidTest_espresso
-    androidTestImplementation Dependencies.androidTest_rules
-    androidTestImplementation Dependencies.androidTest_runner
+    testImplementation TestDeps.junit
+
+    androidTestImplementation AndroidTestDeps.rules
+    androidTestImplementation AndroidTestDeps.runner
+    androidTestImplementation AndroidTestDeps.espressoCore
 }
